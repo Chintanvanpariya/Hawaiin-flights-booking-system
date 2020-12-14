@@ -1,0 +1,39 @@
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.exe
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.deps.json
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.runtimeconfig.json
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.runtimeconfig.dev.json
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.dll
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.pdb
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.csprojAssemblyReference.cache
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.csproj.CoreCompileInputs.cache
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.AssemblyInfoInputs.cache
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.AssemblyInfo.cs
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.dll
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.pdb
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\kiosk system\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.genruntimeconfig.cache
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.exe
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.deps.json
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.runtimeconfig.json
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.runtimeconfig.dev.json
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.dll
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.pdb
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.csprojAssemblyReference.cache
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.csproj.CoreCompileInputs.cache
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.AssemblyInfoInputs.cache
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.AssemblyInfo.cs
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.dll
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.pdb
+C:\Users\asus.ASUSCHINTAN5588\Desktop\csharp exam\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.genruntimeconfig.cache
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.exe
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.deps.json
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.runtimeconfig.json
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.runtimeconfig.dev.json
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.dll
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\bin\Debug\netcoreapp3.1\kiosk system.pdb
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.csprojAssemblyReference.cache
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.AssemblyInfoInputs.cache
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.AssemblyInfo.cs
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.csproj.CoreCompileInputs.cache
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.dll
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.pdb
+D:\USA TEXAS\MASTERS Completed courses\csharp\CHINTAN 00PS EXAM\Vanpariya_chintan_kiosksystem\kiosk system\obj\Debug\netcoreapp3.1\kiosk system.genruntimeconfig.cache
